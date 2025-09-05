@@ -1,0 +1,859 @@
+イベント用モデル	For Events
+イベント用エフェクト	For Events
+G	G
+泊まる	Stay
+泊まらない	Not Staying
+お金が足りない...	Not enough money...
+買う	Buy
+売る	Sell
+やめる	Quit
+{0}を購入しました	Bought {0}.
+{0}を売却しました	Sold {0}.
+無	Non-element
+火	Fire
+氷	Ice
+風	Wind
+雷	Lightning
+聖	Holy
+冥	Dark
+毒	Poison
+眠り	Sleep
+麻痺	Paralysis
+即死	KO
+混乱	Confusion
+魅了	Charm
+リザルト	Result
+セーブしました！	Saved!
+上書き保存します。よろしいですか？	Overwrite save file?
+決定	OK
+カーソル移動	Cursor Movement
+キャラクター選択	Select Cast
+設定変更	Change Settings
+閉じる	Close
+命中率	Accuracy
+消費{0} : {1}	Cost {0} : {1}
+アイテム無し	No Items
+消費アイテム	Consumables
+武器	Weapon
+攻撃力	Attack Power
+鎧	Body Armor
+防御力	Defense
+盾	Shield
+回避率	Evasion
+兜	Headgear
+アクセサリー	Accessory
+所持数	Owned
+アイテム	Items
+スキル	Skills
+装備	Equipment
+ステータス	Status
+セーブ	Save
+セーブデータ	Save Data
+ゲーム終了	Exit Game
+使う	Use
+捨てる	Discard
+LV	LV
+HP	HP
+MP	MP
+状態	State
+正常	Normal
+戦闘不能	KO
+誰が使いますか？	Who would use it?
+スキル無し	No Skills
+誰の装備を変更しますか？	Whose equipment do you want to change?
+はずす	Remove
+なし	Nothing
+誰のステータスを見ますか？	Whose status do you want to see?
+腕力	Brute Strength
+体力	Physical Strength
+魔力	Magical Power
+素早さ	Agility
+経験値	Exp
+つぎのレベルまで	To the Next Level
+ゲームオーバー	Game Over
+誰を攻撃しますか？	Who do you want to attack?
+誰に使用しますか？	Who do you use it on?
+{0}は様子を見ている	{0} is surveying the situation...
+{0}は眠っている……	{0} is sleeping...
+{0}は麻痺で動けない！	{0} is paralyzed and can't move!
+{0}の会心の一撃！	{0}'s critical blow!
+{0}は身を守っている……	{0} is defending...
+{0}は力をためている……	{0} is charging up power...
+{0}の攻撃！	{0}'s attack!
+{1}	{1}
+モンスターが現れた！	The monsters are emerging!
+戦闘に勝利した！	You have won the battle!
+全滅した……	Annihilated......
+逃げ出した……	Ran away......
+お金を{0}{1}手に入れた！	You got {0} {1} money!
+アイテム[{0}]を手に入れた！	You got item [{0}]!
+経験値を{0}ポイント獲得した！	You got {0} experience points!
+レベルアップ！	Level Up!
+逃げる	Escape
+ミス	Miss!!
+戻る	Back
+はい	Yes
+いいえ	No
+一瞬	Instant
+速い	Fast
+普通	Normal
+遅い	Slow
+記憶する	Memorize
+記憶しない	Not Memorize
+BGM	BGM
+効果音	Sound Effects
+メッセージ速度	Message Speed
+カーソル位置	Cursor Position
+初期設定に戻す	Restore Defaults
+はじめから	New Game
+続きから	Continue
+コンフィグ	Config
+属性攻撃力	Attribute Attack
+所持金	Money
+プレイ時間	Play Time
+～伝説の宝をさがせ～	~ Find the legendary treasure ~
+続き	Continue
+{0}は毒を受けている！	{0} is poisoned...
+{0}は混乱している！	{0} is confused...
+{0}は魅了されている！	{0} is charmed...
+{0}は逃げ出した！	{0} escaped!
+{0}は混乱から回復した！	{0} recovered from confusion!
+{0}は立ち上がった！	{0} stood up!
+{0}は魅了から回復した！	{0} recovered from charm!
+{0}は麻痺から回復した！	{0} recovered paralysis!
+{0}は毒から回復した！	{0} recovered from poison!
+{0}は目を覚ました！	{0} has woken up!
+逃げることができなかった！	Could not escape!
+Exp	Exp
+消耗品	Consumables
+貴重品	Valuables
+頭防具	Headgear
+体防具	Body Armor
+装飾品	Accessory
+アイテム袋がいっぱいです。	The inventory is full.
+どのアイテムを捨てますか？	Which item(s) do you discard?
+{0}をすべて捨てます。よろしいですか？	Discard all {0}. Are you sure?
+{0}をあきらめる	Give up {0}
+アイテムが一杯のため、装備が外せませんでした。	The equipment could not be removed because the inventory is full.
+本当にゲームを終了しますか？	Do you really want to quit the game?
+死	KO
+{0}は{1}を発動した！	{0} activated {1}!
+{0}は{1}を使った！	{0} used {1}!
+{0}は{1}を使った	{0} used {1}
+先制した！	We preempted!
+先制された！？	We're preempted!?
+しかし{0}が足りなかった！	But {0} wasn't enough!
+状態7	State 7
+状態8	State 8
+属性7	Attribute 7
+属性8	Attribute 8
+属性	Attribute
+冷気	Cold Air
+雨	Rain
+雪	Snow
+炎	Fire
+煙	Smoke
+嵐	Storm
+雷	Thunder
+紙ふぶき	Confetti
+花火	Fireworks
+霧	Fog
+北風	Cold Wind
+闇の炎	Dark Fire
+焚き火	Small Fire
+スパーク	Spark
+毒ガス	Poison Gas
+火球_finish	Fireball_finish
+出現B	Appearance B
+屋内	Indoor
+屋外	Outdoor
+イベント用スタンプ	For Events
+キラキラ	Sparkle
+宝箱	Treasure Chest
+タンス	Dresser
+ぬいぐるみ	Stuffed Toy
+テーブル	Table
+木のテーブル　Wooden Table
+ベッド	Bed
+看板	Sign
+火球	Fireball
+つぼ	Vase
+お墓	Grave
+勇者A	Hero A
+勇者B	Hero B
+勇者B 	Hero B
+白魔道士	White Mage
+黒魔道士	Black Mage
+神官A	Priest A
+格闘家A	Warrior A
+格闘家B	Warrior B
+大魔導士	Grand Mage
+エルフA	Elf A
+エルフB	Elf B
+村人A	Villager A
+王族A	Royal A
+ハウスキーパー	Housekeeper
+王族B	Royal B
+王族C	Royal C
+王族D	Royal D
+商人A	Merchant A
+商人B	Merchant B
+スライム	Slime
+ゴブリン	Goblin
+ガイコツ	Skeleton
+狼	Wolf
+小鳥	Bird
+兵士	Soldier
+大臣	Cabinet Minister
+村人B	Villager B
+男の子	Boy
+船乗り	Sailor
+黒魔術師	Black Magician
+神官B	Priest B
+兵士（兜）	Soldier (Helmet)
+村人A	Villager A
+村人B	Villager B
+村人C	Villager C
+村人D	Villager D
+海賊	Pirate
+店員A	Clerk A
+店員B	Clerk B
+子供A	Kid A
+子供B	Kid B
+猫A	Cat A
+猫B	Cat B
+賢者	Sage
+隊長	Captain
+水面	Water Surface
+水面-ボックス	Water Surface-Box
+水面-ボリューム	Water Surface-Volume
+滝	Waterfall
+滝-角	Waterfall-Corner
+滝-延長	Waterfall-Extension
+滝-角-延長	Waterfall-Corner-Extension
+登場(悪)	Appearance (Evil)
+ストーンブロック	Stone Block
+木箱	Wooden Box
+セーブポイント	Save Point
+階段	Stairs
+扉	Door
+お城の扉	Castle Door
+牢屋の扉	Prison Door
+迷宮の扉	Labyrinth Door
+塔の扉	Tower Door
+鉄の扉	Iron Door
+井戸	Water Well
+青色ボタン	Blue Button
+緑色ボタン	Green Button
+赤色ボタン	Red Button
+黄色ボタン	Yellow Button
+進化中	Evolving
+進化成功演出中	Evolution Succeeded - in Progress
+進化成功演出完了	Evolution Succeeded - End
+進化キャンセル演出中	Evolution Canceled- in Progress
+進化キャンセル演出完了	Evolution Canceled- End
+同行メンバー	Accompanied Members
+控えメンバー	Reserve Members
+そのまま	Maintain
+モンスター	Monsters
+相手が新しいモンスターを出そうとしてる！	The opponent is trying to bring out a new monster!
+どのモンスターを出しますか？	Which monster do you want to bring out?
+{0}の捕獲に成功！	{0} successfully captured!
+{0}に逃げられた……	{0} got away .......
+新手のモンスターの気配がする！	There's a feeling of a new monster in the air!
+通常攻撃	Normal Attack
+防御	Defense
+戦う	Fight
+ケン	Ken
+エリザベータ	Elisabeta
+ルナ	Luna
+サイラス	Cyrus
+ウォーレン	Warren
+勇者の血を引く若き冒険者。	A young adventurer of brave blood.
+さすらいの剣士。伝説の勇者を探している	Wandering swordsman. Looking for a legendary hero.
+魔法を学んでいる村の少女。	A village girl learning magic.
+村の神父。神聖魔法の使い手。	Village priest. A wielder of sacred magic.
+伝説の大魔道士。今は隠居して静かに暮らしている。	A legendary great mage. He is now retired and lives a quiet life.
+瀕死	Less HP
+消費HP：\selectskillconsumptionhp
+消費MP：\selectskillconsumptionmp
+種別:\selecshoptitemcategory
+レベルアップ!	Level Up!
+属性	Attribute
+chr001勇者A	chr001HeroA
+chr002勇者B	chr002HeroB
+chr003エルフA	chr003ElfA
+chr004エルフB	chr004ElfB
+chr005格闘家A	chr005WarriorA
+chr006格闘家B	chr006WarriorB
+chr007神官A	chr007PriestA
+chr008神官B	chr008PriestB
+chr009黒魔術師	chr009BlackMage
+chr010白魔術師	chr010WhiteMage
+chr011大魔道士	chr011GrandMage
+chr012子供A	chr012ChildA
+chr013子供B	chr013ChildB
+chr014村人D	chr014VillagerD
+chr015村人C	chr015VillagerC
+chr016村人B	chr016VillagerB
+chr017村人E	chr017VillagerE
+chr018老人A	chr018OldPersonA
+chr019老人B	chr019OldPersonB
+chr020酒場A	chr020BarA
+chr021酒場B	chr021BarB
+chr022王族A	chr022RoyalA
+chr023王族B	chr023RoyalB
+chr024王族C	chr024RoyalC
+chr025王族D	chr025RoyalD
+chr026大臣	chr026CabinetMinister
+chr027兵士1	chr027Soldier1
+chr027兵士2	chr027Soldier2
+chr028隊長	chr028Captain
+chr029ハウスキーパー	chr029Housekeeper
+chr030執事	chr030Butler
+chr031賢者	chr031Sage
+chr032占い師	chr032Fortuneteller
+chr033聖職者A	chr033ClergypersonA
+chr034聖職者B	chr034ClergypersonB
+chr035海賊	chr035Pirate
+chr036船乗り	chr036Sailor
+chr037商人	chr037Merchant
+データ検証用	For data verification
+イベントテンプレート用	For Event Templates
+はじめから	Start
+続きから	Continue
+コンフィグ	Config
+アイテム	Items
+スキル	Skills
+モンスタードット絵	Dot Monster Casts
+足音	Footsteps
+デフォルト	Default
+標準	Normal
+会話	Conversation
+メッセージ表示上	Message (Top)
+メッセージ表示中央	Message (Center)
+メッセージ表示下	Message (Bottom)
+メッセージ表示用	For Displaying Message
+ネームプレート上	Name Plate (Top)
+ネームプレート左	Name Plate (Left)
+ネームプレート中央	Name Plate (Center)
+ネームプレート右	Name Plate (Right)
+ネームプレート下	Name Plate (Bottom)
+表示キャスト1	Displaying Cast 1
+表示キャスト2	Displaying Cast 2
+テロップ	Ticker
+背景画像	Background Image
+テロップメッセージ	Ticker Message
+テロップスクロールメッセージ	Ticker Scroll Message
+ショップ選択	Selection
+ショップ選択肢	Selection
+所持金表示	Money in Possession
+ショップ買う	Buy
+販売アイテム表示	Sales Items
+値段	Price
+選択アイテム詳細	Selected Item Details
+種別	Category
+装備ステータス	Equipment Status
+ショップ購入個数	Quantity Purchased
+ショップ個数選択	Quantity Selection
+アイテム名	Item Name
+値段	Price
+ショップ売る	Sell
+売却アイテム表示	Sold Items
+選択アイテム詳細	Selected Item Details
+種別	Category
+装備ステータス	Equipment Status
+ショップ売却個数	Quantity Sold
+ショップ個数選択	Quantity Selection
+アイテム名	Item Name
+値段	Price
+宿屋選択左上	Top-Left
+宿屋選択上	Top
+宿屋選択右上	Top-Right
+宿屋選択左	Left
+宿屋選択中央	Center
+宿屋選択右	Right
+宿屋選択左下	Bottom-Left
+宿屋選択下	Bottom
+宿屋選択右下	Bottom-Right
+所持金表示	Money in Possession
+レベルアップ	Level Up
+バトルスキル選択	Battle Skill Selection
+取得スキル詳細表示	Acquired Skill Details
+選択スキル詳細表示	Selected Skill Details
+交代	Replace
+メンバー	Member
+図鑑	Picture Book
+マップ	Map
+終了	Exit
+使用する対象を選んでください	Select the target to be used
+次のレベルまで	Until Next Level
+スキル : \currentdictionaryskillsname[3]	Skill: \currentdictionaryskillsname[3]
+アイテム : \currentdictionaryitemsname[3]	Item: \currentdictionaryitemsname[3]
+HP : \currentdictionarystatus[1]	HP: \currentdictionarystatus[1]
+守備力 : \currentdictionarystatus[6]	Defense Power: \currentdictionarystatus[6]
+攻撃力 : \currentdictionarystatus[5]	Attack Power: \currentdictionarystatus[5]
+魔力 : \currentdictionarystatus[7]	Magical Power: \currentdictionarystatus[7]
+素早さ : \currentdictionarystatus[8]	Agility: \currentdictionarystatus[8]
+上書き保存します。よろしいですか?	Overwrite and save. Are you sure?
+BGM	BGM
+効果音	Sound Effects
+一瞬\n速い\n普通\n遅い	Instantly\nFast\nNormal\nSlow
+記憶する\n記憶しない	Memorize\nNot Memorize
+自動ダッシュ	Auto Run
+無効にする\n有効にする	Disable\nEnable
+カメラ上下操作	Camera U/D Op.
+カメラ左右操作	Camera L/R Op.
+通常\n反転	Normal\nReverse
+本当にゲームを終了しますか	Quit the game?
+お金	Money
+バトルメッセージ	Battle Message
+メッセージ	Message
+スキル詳細表示	Skill Details Window
+使用者名前	User Name
+名前下線	Name Underline
+アイコン画像	Icon Image
+スキル名前	Skill Name
+消費HP	HP Consumption
+消費MP	MP Consumption
+説明	Description
+使用スキル表示	Skills Used Window
+名前	Name
+スキル1	Skill 1
+スキル2	Skill 2
+スキル3	Skill 3
+スキル4	Skill 4
+スキル5	Skill 5
+アイテム詳細表示	Item Details Window
+アイコン画像	Icon Image
+個数	Quantity
+使用アイテム表示	Items Used Window
+アイテム1	Item 1
+アイテム2	Item 2
+アイテム3	Item 3
+アイテム4	Item 4
+アイテム5	Item 5
+アイテム6	Item 6
+アイテム7	Item 7
+アイテム8	Item 8
+アイテム9	Item 9
+アイテム10	Item 10
+交代メニュー表示	Replacing Menu Window
+メンバー1	Member 1
+メンバー2	Member 2
+メンバー3	Member 3
+メンバー4	Member 4
+メンバー5	Member 5
+メンバー6	Member 6
+メンバー7	Member 7
+コマンドメニュー表示	Command Menu Window
+コマンド1	Command 1
+コマンド2	Command 2
+コマンド3	Command 3
+コマンド4	Command 4
+コマンド5	Command 5
+コマンド6	Command 6
+リザルト表示	Results Window
+お金ラベル	Money Label
+お金	Money
+経験値ラベル	EXP Label
+経験値	EXP
+タイトル	Title
+獲得アイテム	Acquired Items
+獲得アイテム表示	Acquired Items Window
+Loadingテキスト	Loading Text
+背景	Background
+タイトル名とサブタイトル名	Title and Subtitle Names
+タイトル名	Title Name
+サブタイトル名	Subtitle Name
+初めから、続きから、コンフィグ	New Game, Continue, Config
+はじめからテキスト	New Game Text
+続きからテキスト	Continue Text
+コンフィグテキスト	Config Text
+ゲームをおわるテキスト	Exit Game Text
+メインメニュー表示	Main Menu Window
+装備	Equipment
+メンバー	Members
+図鑑	Picture Book
+マップ	Maps
+セーブ	Save
+ゲーム終了	Exit Game
+終了	Exit
+使用先選択表示	Destination Selection Window
+使用先選択	Destination Selection
+キャスト1	Cast 1
+キャスト2	Cast 2
+キャスト3	Cast 3
+キャスト4	Cast 4
+キャスト5	Cast 5
+キャスト6	Cast 6
+キャスト7	Cast 7
+キャスト8	Cast 8
+顔アイコン	Face Icon
+レベル	Level
+HP	HP
+HP値	HP Value
+MP	MP
+MP値	MP Value
+状態異常テキスト	Abnormal State Text
+状態異常アイコン	Abnormal State Icon
+スキル使用者表示	Skill Users Window
+使用者スキル一覧表示	User Skill List Window
+スキル1アイコン画像	Skill 1 Icon Image
+スキル1名前	Skill 1 Name
+スキル2アイコン画像	Skill 2 Icon Image
+スキル2名前	Skill 2 Name
+スキル3アイコン画像	Skill 3 Icon Image
+スキル3名前	Skill 3 Name
+スキル4アイコン画像	Skill 4 Icon Image
+スキル4名前	Skill 4 Name
+スキル5アイコン画像	Skill 5 Icon Image
+スキル5名前	Skill 5 Name
+スキル6アイコン画像	Skill 6 Icon Image
+スキル6名前	Skill 6 Name
+スキル7アイコン画像	Skill 7 Icon Image
+スキル7名前	Skill 7 Name
+選択キャスト画像表示	Selected Cast Image Window
+選択キャスト画像	Selected Cast Image
+名前下線	Name Underline
+使用先選択表示	Destination Selection Window
+装備変更者表示	Equipment Changer Window
+選択キャスト装備プレビュー	Selected Cast Equipment Preview
+選択キャスト名前	Selected Cast Name
+装備キャスト名前	Equipped Cast Name
+剣アイコン	Sword Icon
+装備剣アイコン画像	Equipped Sword Icon Image
+装備剣名前	Equipped Sword Name
+盾アイコン	Shield Icon
+装備盾アイコン画像	Equipped Shield Icon Image
+装備盾名前	Equipped Shield Name
+兜アイコン	Headgear Icon
+装備兜アイコン画像	Equipped Headgear Icon Image
+装備兜名前	Equipped Headgear Name
+鎧アイコン	Armor Icon
+装備鎧アイコン画像	Equipped Armor Icon Image
+装備鎧名前	Equipped Armor Name
+アクセサリー1アイコン	Accessory 1 Icon
+装備アクセサリー1アイコン画像	Equipped Accessory 1 Icon Image
+装備アクセサリー1名前	Equipped Accessory 1 Name
+アクセサリー2アイコン	Accessory 2 Icon
+装備アクセサリー2アイコン画像	Equipped Accessory 2 Icon Image
+装備アクセサリー2名前	Equipped Accessory 2 Name
+変更部位表示	Changing Parts Window
+装備種類アイコン	Equipment Type Icon
+剣	Sword
+盾	Shield
+兜	Headgear
+鎧	Armor
+アクセサリー1	Accessory 1
+アクセサリー2	Accessory 2
+ステータス表示	Status Window
+装備キャスト名前	Equipped Cast Name
+レベル値	Level Value
+攻撃力	Attack Power
+攻撃力値	Attack Power Value
+属性攻撃力	Attribute Attack
+属性攻撃力値	Attribute Attack Value
+防御力	Defense Power
+防御力値	Defense Power Value
+魔力	Magical Power
+魔力値	Magical Power Value
+素早さ	Agility
+素早さ値	Agility Value
+命中率	Accuracy
+命中率値	Accuracy Value
+回避率	Evasion Rate
+回避率値	Evasion Rate Value
+経験値値	EXP Value
+次のレベルまで	Until Next Level
+次のレベルまで値	Until Next Level Value
+装備選択表示	Equipment Selection Window
+装備説明	Equipment Description
+装備1	Equipment 1
+装備2	Equipment 2
+装備3	Equipment 3
+装備4	Equipment 4
+装備5	Equipment 5
+パーティ表示	Party Window
+控え表示	Reserve Window
+図鑑一覧表示	Picture Book List Window
+図鑑1	Picture Book 1
+図鑑2	Picture Book 2
+図鑑3	Picture Book 3
+図鑑4	Picture Book 4
+図鑑5	Picture Book 5
+図鑑6	Picture Book 6
+図鑑7	Picture Book 7
+図鑑8	Picture Book 8
+図鑑9	Picture Book 9
+図鑑10	Picture Book 10
+図鑑11	Picture Book 11
+図鑑12	Picture Book 12
+図鑑13	Picture Book 13
+図鑑14	Picture Book 14
+図鑑詳細表示	Picture Book Details Window
+說明	Description
+守備力	Defense Power
+画像	Image
+マップ表示	Map Window
+セーブ日時	Saved Date
+セーブデータ表示	Save Data Window
+セーブデータ1	Save Data 1
+セーブデータ2	Save Data 2
+セーブデータ3	Save Data 3
+セーブデータ4	Save Data 4
+セーブデータ5	Save Data 5
+マップ名	Map Name
+日付	Date
+時間	Time
+パーティー先頭顔アイコン	Party Leader Face Icon
+パーティー先頭名前	Party Leader Name
+パーティー先頭レベル	Party Leader Level
+セーブ時のパーティ表示	Party at Save Time Window
+状態アイコン	State Icon
+セーブ上書き確認表示	Save Overwrite Confirmation Window
+上書き確認	Overwrite Confirmation
+はい	Yes
+いいえ	No
+設定表示	Settings Window
+BGM	BGM
+スライダー	Slider
+BGM下線	BGM Underline
+効果音	Sound Effects
+効果音下線	Sound Effects Underline
+メッセージ速度	Message Speed
+左右カーソル	Left/Right Cursor
+メッセージ速度下線	Message Speed Underline
+カーソル位置	Cursor Position
+カーソル位置下線	Cursor Position Underline
+初期設定に戻す	Restore Defaults
+初期設定にもどす	Restore Defaults
+終了確認表示	Exit Confirmation Window
+終了確認	Exit Confirmation
+マップ名表示帯	Map Name Window
+Gameover	Game Over
+ロゴ	Logo
+敵ステータス表示	Enemy Status Window
+トレーナー	Trainer
+敵1	Enemy 1
+敵2	Enemy 2
+敵3	Enemy 3
+敵4	Enemy 4
+敵5	Enemy 5
+敵6	Enemy 6
+HPラベル	HP Label
+MPラベル	MP Label
+見出し	Headline
+セレクタ	Selector
+所持数	Owned
+所持数 : \currentitemnum	Owned: \currentitemnum
+消費HP : \selectskillconsumptionhp	HP Consumption: \selectskillconsumptionhp
+消費MP : \selectskillconsumptionmp	MP Consumption: \selectskillconsumptionmp
+消費HP : \currentskillconsumptionhp	HP Consumption: \currentskillconsumptionhp
+消費MP : \currentskillconsumptionmp	MP Consumption: \currentskillconsumptionmp
+消費HP : \currentlearnskillconsumptionhp	HP Consumption: \currentlearnskillconsumptionhp
+消費MP : \currentlearnskillconsumptionmp	MP Consumption: \currentlearnskillconsumptionmp
+消費MP：\currentskillconsumptionmp	MP Consumption: \currentskillconsumptionmp
+種別:\selecshoptitemcategory	Category: \selecshoptitemcategory
+所持数:\selectshopitemnum	Owned: \selectshopitemnum
+所持数 : \currentitemnum	Owned: \currentitemnum
+泊まる : \innpriceG	Stay: \innpriceG
+状態 : \reservecondition	State: \reservecondition
+状態 : \partycondition	State: \partycondition
+状態 : \currentsavepartycondition[0]	State: \currentsavepartycondition[0]
+状態 : \currentsavepartycondition[1]	State: \currentsavepartycondition[1]
+状態 : \currentsavepartycondition[2]	State: \currentsavepartycondition[2]
+状態 : \currentsavepartycondition[3]	State: \currentsavepartycondition[3]
+所持金 : \money G	Money: \money G
+プレイ時間 \time	Play Time \time
+{0}は状態7になった！	{0} is now in state 7!
+{0}は状態8になった！	{0} is now in state 8!
+{0}は状態7から回復した！	{0} recovered from state 7!
+{0}は状態8から回復した！	{0} recovered from state 8!
+買う	Buy
+売る	Sell
+やめる	Quit
+全体	Overall
+所持アイテム表示	Items Possessed Window
+説明文表示	Description Window
+説明文テキスト	Description Text
+アイテム袋がいっぱいです。どのアイテムを捨てますか?	Your inventory is full. Which item(s) would you like to discard?
+\currentitemname を全て捨てます。よろしいですか。	Discard all \currentitemname. Are you sure?
+アイテム破棄確認表示	Item Discard Confirmation Window
+破棄確認	Discard Confirmation
+汎用メッセージ	General Message
+汎用メッセージ表示	General Message Window
+選択肢	Selection
+選択肢左上	Top-Left
+選択肢上	Top
+選択肢右上	Top-Right
+選択肢左	Left
+選択肢中央	Center
+選択肢右	Right
+選択肢左下	Bottom-Left
+選択肢下	Bottom
+選択肢右下	Bottom-Right
+選択肢テキスト	Text
+文字入力上	Top
+文字入力中央	Center
+文字入力下	Bottom
+入力文字表示	Output Window
+入力文字	Output String
+文字一覧表示	Input Window
+文字一覧	Input String
+セーブデータ無し	No Save Data
+パーティへ移動させる	Move to the Party
+控えへ移動させる	Move to the Reserve
+{0}が現れた！	{0} is emerging!
+青色スイッチを押した	Pressed the blue switch
+宝箱-貴重品	Treasure Chest - Valuable Item
+ブロック破壊	Block Destruction
+青色ボタン-PUSH	BlueButton-PUSH
+赤色ボタン-PUSH	RedButton-PUSH
+緑色ボタン-PUSH	GreenButton-PUSH
+黄色ボタン-PUSH	YellowButton-PUSH
+消滅	Disappearance
+出現	Appearance
+表示中	Displaying
+ゲームをおわる	Exit Game
+ゲームを終わる	Exit Game
+区切り線	Break Line
+覚えているスキル	Learned Skills
+覚えてるスキル	Learned Skills
+スキル6	Skill 6
+スキル7	Skill 7
+スキル8	Skill 8
+スキル9	Skill 9
+スキル10	Skill 10
+消費MP：\skillconsumptionmp[0]	MP Consumption: \skillconsumptionmp[0]
+だれに使う？	Who to use it for?
+だれに使う	Who to use it for?
+選択キャラクター名前	Selected Character Name
+装備キャラクター名前	Equipped Character Name
+選択キャラクター画像	Selected Character Image
+状態 : \currentsavepartycondition[0][0]	State: \currentsavepartycondition[0][0]
+状態 : \currentsavepartycondition[1][0]	State: \currentsavepartycondition[1][0]
+状態 : \currentsavepartycondition[2][0]	State: \currentsavepartycondition[2][0]
+状態 : \currentsavepartycondition[3][0]	State: \currentsavepartycondition[3][0]
+ステータス一覧表示	Status List Window
+所持金文字	Money in Possession
+キャストアイコン	Cast Icon
+HPバー	HP Bar
+MPバー	MP Bar
+スキル使用者	Skill User
+簡易ステータス	Simplified Status
+メッセージ用スプライト	Sprite for Messages
+メッセージスプライト	Message Sprite
+状態変化1	State Change 1
+状態変化2	State Change 2
+状態変化3	State Change 3
+状態変化4	State Change 4
+攻撃力増減値	Attack Power Increase/Decrease Value
+属性攻撃力増減値	Attribute Attack Power Increase/Decrease Value
+防御力増減値	Defense Power Increase/Decrease Value
+魔力増減値	Magical Power Increase/Decrease Value
+素早さ増減値	Agility Increase/Decrease Value
+命中率増減値	Accuracy Increase/Decrease Value
+回避率増減値	Evasion Rate Increase/Decrease Value
+最大HP	Max HP
+最大HP値	Max HP Value
+最大MP	Max MP
+最大MP値	Max MP Value
+獲得経験値	Acquired EXP Value
+落とす金額	Amount of Money to be Dropped
+落とすアイテム1	Item 1 to be Dropped
+落とすアイテム2	Item 2 to be Dropped
+落とすアイテム3	Item 3 to be Dropped
+落とすアイテム4	Item 4 to be Dropped
+ならびかえ	Rearrange
+装備品	Equipment
+装備品の説明	Equipment Description
+合計経験値	Total EXP Value
+次のレベルまでの経験値	EXP Value until the Next Level
+テストタイトル	Test Title
+テスト用の剣	Sword for Testing
+レイアウト確認用のアイテムです\nレイアウト確認用のアイテムです\nレイアウト確認用のアイテムです\nレイアウト確認用のアイテムです	It's for layout checking.\nIt's for layout checking.\nIt's for layout checking.\nIt's for layout checking.
+レイアウト確認用アイテム	Item for Layout Checking
+レイアウト確認用のアイテムです	This item is for layout checking.
+赤い玉	Red Ball
+スゴイ赤いよ\n真っ赤だよ	It's really red.\nIt's bright red.
+丸いなにか	Something Circular
+まん丸だよ\n意外と大きくて重いよ	It's round and round.\nSurprisingly it's big and heavy.
+やくそう	Medicinal Plant
+その辺に自生してる薬草\n美味しくない	The medicinal herbs that grow wild around.\nThere are not tasty.
+倉庫の鍵	Warehouse Key
+家の倉庫の鍵だ\n返すの忘れてた	It's the key to the storage room at home.\nI forgot to return it.
+りんご	Apple
+おいしいリンゴ\nなぜか腐らない…？	Delicious apples.\nWhy don't they rot...?
+魔法の本	Magic Book
+魔法を勉強するための本\n開くだけで眠くなる	A book to study magic.\nJust opening it makes one sleepy.
+空の瓶	Empty Bottle
+何の変哲もない瓶\n空なので何かを入れることができる	Nondescript bottle empty \nso something can be put in it.
+羊のぬいぐるみ	Stuffed Sheep
+村の小さな女の子に人気のアイテム\nお土産にどうぞ！	Popular item for little girls in the village.\nGet them as souvenirs!
+キノコ	Mushroom
+食用のキノコ\n魔力が少し回復する	Edible mushroom.\nRecovers a little magical power.
+地図	Map
+この辺りの地図	Map of this area
+仮スキル	Temporary Skill
+レイアウト確認用のスキルです	This skill is for layout checking.
+仮スキル弐号	Temporary Skill 2
+レイアウト確認のために用意された\nスキルですよ	It's a skill that's provided \nfor layout checking.
+空き	Empty
+ファイト一発	Ready Fight
+使うと元気になる	Using it makes you feel better.
+兵士(兜無し)	Soldier (no helmet)
+木のテーブル	Wooden Table
+兵士（兜無し）	Soldier (no helmet)
+商品	Products
+所持数 : \selectshopitemnum	Owned: \selectshopitemnum
+ガイド矢印	Guide Arrow
+支払額	Amount Paid
+購入数	Quantity
+売るアイテムを選択	Select an Item to Sell
+売却数	Quantity
+メッセージ表中央	Message (Center)
+執事	Butler
+聖職者A	Clergyperson A
+聖職者B	Clergyperson B
+占い師	Fortuneteller
+老人A	Senior Citizen A
+犬	Dog
+老人B	Senior Citizen B
+悪魔の騎士	Demon Knight
+キャスト	Cast
+吹き出し型メッセージ	Speech Bubble Message
+吹き出し矢印	Speech Bubble Arrow
+サポートキャスト	Support Casts
+モンスターキャスト	Monster Casts
+ヒーローキャスト	Hero Casts
+2Dキャスト	2D Casts
+スプライト用	For Sprites
+レイアウト用	For Layouts
+アクション用	For Actions
+アクション用_2	For Actions_2
+デフォルトキャスト	Default Cast
+イベント用フリーレイアウトに配置したメニューは、「画面リストの「メニュー画面」にあるメニュー相当」の挙動をします。	A menu placed in the Free Layout for Events behaves as a "menu equivalent in the "Menu Screen" of the Screen List". 
+詳細はマニュアル RPG Developer Bakin Wiki をご覧ください。	Please refer to the manual RPG Developer Bakin Wiki for more information.
+強化するアイテム選択画面のレイアウトは、強化するアイテムをアイテム袋の中から選択させる際に使うレイアウトです。\n使用する際には、まずこのレイアウトをコピーし、レイアウトプロパティーの「変数指定」に選択したアイテムのn番目を保存させる変数を設定してください。\nそのうえでレイアウトパーツ「強化するアイテム選択」コンテナ内の「アイテム1～アイテム10」コンテナのプロパティー「共通イベント」に、アイテムを強化するための共通イベントを指定してください。\nアイテムを強化する共通イベントは別途作成しておく必要があります。\n詳細はマニュアル RPG Developer Bakin Wiki をご覧ください。	The layout of the Enhancement Item Selection screen is used to allow the player to select the item to be enhanced from the inventory.\nTo use it, first copy this layout and specify in the "Variable Specification" of the Layout Properties the variable that you want the nth of the selected items to be stored.\nThen, specify a common event to enhance the item in the properties "Common Event" of the "Item 1 to Item 10" container in the layout part "Enhancement Item Selection" container.\nA common event to enhance the item must be created separately.\nPlease refer to the manual RPG Developer Bakin Wiki for more information.
+強化するアイテム選択	Enhancement Item Selection
+強化するアイテムを選択	Enhancement Item Selection
+合計{0}種類	Total {0} Types
+誰と場所を入れ替えますか？	Who would you swap places with?
+アーマチュア|open	Armature|open
+アーマチュア|close	Armature|close
+使用スキル選択	Use Skill Selection
+使用アイテム選択	Use Item Selection
+バトルコマンド	Battle Command
+はじめから、続きから、コンフィグ	New Game, Continue, Config
+装備アイテム選択	Equipment Item Selection
+上書き確認表示	Overwrite Confirmation Window
+購入アイテム選択	Purchase Item Selection
+売却アイテム選択	Sold Item Selection
+装備変更者選択	Equipment Changer Selection
+装備位置選択	Equipment Position Selection
+スキル発動者選択	Skill Activator Selection
+破棄するアイテム選択	Item Discard Selection
+バトルステータス	Battle Status
+ステータス表示メンバー選択	Status Window Member Selection
+ネームプレート	Name Plate
